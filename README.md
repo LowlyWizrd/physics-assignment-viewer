@@ -17,7 +17,7 @@ $$ \frac{d}{dx} \Big[(1-x^2)\frac{d}{dx}P_n(x)\Big] +n(n+1)P_n(x) = 0 $$
 
 These can be analytically solved, but seeing as I'm writing a program it's a lot more interesting to just write a numerical method for solving it. Fortunately, it comes with a a nice recursive formula for points $ n \geq 2 $. $n = 0$ and $n = 1$ are trivial, $1$ and $x$ respectively. This recursive formula is given below, 
 
-$$ n P_n(x) = (2n -1)x(P_{n-1}(x) - (n-1)P_{n-2}(x) $$
+$$ n P_n(x) = (2n -1)xP_{n-1}(x) - (n-1)P_{n-2}(x) $$
 
 I intend to learn a little about plotting things. I think I might make some draw calls here in a viewport and see if I can't get it to draw a graph of the Legendre polynomials.
 
