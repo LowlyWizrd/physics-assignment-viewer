@@ -1,7 +1,7 @@
 # physics-assignment-viewer
-I'll be uploading all 20 of my old computational physics assignments here under a Dear ImGui application while I learn programming. Thought I'd start with code I already have.
+I'll be uploading all 17 of my old computational physics assignments here under a Dear ImGui application while I learn programming. Thought I'd start with code I already have.
 
-Chances are if you're a computational physics student, half of the code I've written will work--I suggest avoiding using it because I have no idea how to optimise it. I'm doing this purely to learn C++ and making desktop applications. I'd rather you just write your own code, because how else are you gonna learn? Plus, 9 times out of 10 you'll be writing a command line program. This is going to be a desktop app written in C++ using Vulkan as a renderer. It's overkill.
+Chances are if you're a computational physics student, half of the code I've written will work--I suggest avoiding using it because I have no idea how to optimise it. I'm doing this purely to learn C++ and making desktop applications. I'd rather you just write your own code, because how else are you gonna learn? Plus, 9 times out of 10 you'll be writing a command line program. This is going to be a desktop app written in C++ using OpenGL as a renderer. It's overkill.
 
 ________________________________________________________________________________________________
 # Included Assignments
