@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/bin/x64/Debug
+/bin-int/x64/Debug
+/Physics-Assignment-Viewer/.vs
+*.vcxproj
+*.filters
+*.user
+*.sln
