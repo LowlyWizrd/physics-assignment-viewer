@@ -1,0 +1,7 @@
+[submodule "Physics-Assignment-Viewer/src/PhysicsAssignmentViewer/physics-assignment-viewer/src/imgui"]
+	path = Physics-Assignment-Viewer/src/PhysicsAssignmentViewer/physics-assignment-viewer/src/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "Physics-Assignment-Viewer/src/imgui"]
+	path = Physics-Assignment-Viewer/src/imgui
+	url = https://github.com/ocornut/imgui.git
+	branch = docking
